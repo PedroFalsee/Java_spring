@@ -9,4 +9,4 @@ vscode:
     - humao.rest-cliente
     - vscjava.vscode-glade
   ports
-    visibility: public
+    visibility: private
