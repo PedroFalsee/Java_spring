@@ -9,5 +9,4 @@ vscode:
     - humao.rest-cliente
     - vscjava.vscode-glade
   ports
-    - port: 8080
     visibility: public
