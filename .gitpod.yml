@@ -8,5 +8,4 @@ vscode:
     - vscjava.vscode-java-pack
     - humao.rest-cliente
     - vscjava.vscode-glade
-  ports
-    visibility: private
+
